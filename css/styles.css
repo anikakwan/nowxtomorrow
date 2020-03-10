@@ -2,6 +2,10 @@
 /* CSS Document */
 
 body {
+	background-color:#FF49FF;
+}
+
+#comingsoon {
  font-family: futura-pt, sans-serif;
  font-weight: 700;
  font-style: italic;
@@ -9,4 +13,13 @@ body {
  padding: 70px 0;
  background-color:#FF49FF;
  text-align: center;
+
+  height: 200px;
+
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
+	
