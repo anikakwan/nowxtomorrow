@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+ font-family: futura-pt, sans-serif;
+ font-weight: 700;
+ font-style: italic;
+ color: gold;
+ padding: 70px 0;
+ background-color:#FF4CF3;
+ text-align: center;
+}
